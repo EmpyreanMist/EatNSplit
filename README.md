@@ -1,6 +1,6 @@
 # EatNSplit - Bill Splitting App 🍽️
 
-> A React project built as part of a React course.
+> A React project built as part of a React course I took.
 
 ## Description
 
@@ -27,4 +27,33 @@ The project was built using **React 18** and scaffolded with **Create React App*
 ## Live Demo
 
 👉 [View the app live here!](https://empyreanmist.github.io/EatNSplit)
-# EatNSplit
+
+## How to run the project locally
+
+1. Clone the repository:
+
+```
+git clone https://github.com/EmpyreanMist/FarAway.git
+```
+
+2. Install dependencies:
+
+```
+npm install
+```
+
+3. Start the development server:
+
+```
+npm start
+```
+
+The app will run at `http://localhost:3000`
+
+## Technologies Used
+
+- React 
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
