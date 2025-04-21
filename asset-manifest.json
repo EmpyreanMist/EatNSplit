@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EmpyreanMist/EatNSplit/static/css/main.f38a3276.css",
+    "main.js": "/EmpyreanMist/EatNSplit/static/js/main.cea7da56.js",
+    "index.html": "/EmpyreanMist/EatNSplit/index.html",
+    "main.f38a3276.css.map": "/EmpyreanMist/EatNSplit/static/css/main.f38a3276.css.map",
+    "main.cea7da56.js.map": "/EmpyreanMist/EatNSplit/static/js/main.cea7da56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.cea7da56.js"
+  ]
+}
